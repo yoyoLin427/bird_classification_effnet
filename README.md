@@ -14,11 +14,13 @@ it will automatically load the model and reproduce submission file
 
 
 ## Training 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KBTHDoJi5bzTj6IGz8FSkHeouP0WR79n?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1E-_HXc_I3Tcqord_T-3swV3JQyjtJdKA?usp=sharing)
 
-be specified in `bird_v11.py`.
+be specified in `bird_v11_sgd.py`.
 
 if you want to try this file, please change the file path in code
+
+I found that use SGD as learning rate, larger the image input size and reduce the batch size can improve the model.
 
 
 ## Future work:
