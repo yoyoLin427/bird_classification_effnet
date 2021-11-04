@@ -16,7 +16,9 @@ it will automatically load the model and reproduce submission file
 ## Training 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KBTHDoJi5bzTj6IGz8FSkHeouP0WR79n?usp=sharing)
 
-be specified in `src/configs.py`. 
+be specified in `bird_v11.py`.
+
+if you want to try this file, please change the file path in code
 
 
 ## Future work:
