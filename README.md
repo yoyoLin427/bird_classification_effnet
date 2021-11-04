@@ -5,7 +5,8 @@ This repository is related to the [Selected Topics in Visual Recognition using D
 
 please use colab to open the file "inference.py"
 just execute this file on colab,
-it will automatically load the model I trained and reproduce submission file
+
+it will automatically load the model and reproduce submission file
 
 
 
